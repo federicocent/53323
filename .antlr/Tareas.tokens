@@ -1,0 +1,8 @@
+DASH=1
+EQUALS=2
+ID=3
+NUMBER=4
+STRING=5
+WS=6
+'-'=1
+'='=2
